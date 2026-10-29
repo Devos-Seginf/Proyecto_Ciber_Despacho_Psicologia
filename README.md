@@ -87,8 +87,13 @@ Los siguientes enlaces pueden ayudarte:
 
 En el siguiente documento veremos un proyecto real de una empresa que requiere una mejora en sus instalaciones para cumplir con la Directiva NIS2 y el Esquema Nacional de Seguridad.
 
+
+---
+
 El primer bloque muestra la visita inicial a el cliente, tras la que se realiza el plano de sus instalaciones así como la topología de red incluyendo los elementos de red actuales.
 
+
+![Plano de instalación inicial del cliente](Imagenes/Instalacion_inicial.png)
 
 
 
