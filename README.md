@@ -54,17 +54,19 @@ Los siguientes enlaces pueden ayudarte:
 
 >1 - Herramientas utilizadas.
 
--  Proxmox Virtual Environment Versión 9.2.20
-- Ubuntu Versión 24.04.5
-- Ubuntu Server Versión 24.04
-- Kali Linux Versión 2026
-- AdGuard
-- DrawIO Versión 32.6.1
-- Wireshark Versión 4.6.6
-- KeepassXC Versión 2.8.0
-- AEGIS 2FA
-- Github Repository (personal)
-- Adobe Illustrator 27.0
+- Proxmox Virtual Environment Versión 9.2.20.
+- Ubuntu Versión 24.04.5.
+- Ubuntu Server Versión 24.04.
+- Kali Linux Versión 2026.
+- AdGuard.
+- DrawIO Versión 32.6.1.
+- Wireshark Versión 4.6.6.
+- KeepassXC Versión 2.8.0.
+- AEGIS 2FA.
+- Github Repository (personal).
+- Adobe Illustrator 27.0.
+- VSCode Versión 1.140.0.
+
 
 ---
 
