@@ -85,13 +85,9 @@ Los siguientes enlaces pueden ayudarte:
 
 - Esta breve introducción trata del Certificado de Grado C  Nivel 3 Familia Informática y Telecomunicaciones **[IFCT0109|Seguridad informática]**
 
-En el siguiente documento veremos el resultado de la finalización del Certificado, pudiendo crear un proyecto real de una empresa que requiere una mejora en sus instalaciones para cumplir con la Directiva NIS2 y el Esquema Nacional de Seguridad.
-
-
 ---
 
 El primer bloque muestra la visita inicial a el cliente, tras la que se realiza el plano de sus instalaciones así como la topología de red incluyendo los elementos de red actuales.
-
 
 ![Plano de instalación inicial del cliente](Imagenes/Instalacion_inicial.png)
 
@@ -103,6 +99,12 @@ Aún en los casos de usar 2FA, son muy conocidas y a la vez usadas por actores m
 
 ---
 
+La finalización del curso en cuestión permitirá crear las siguientes configuraciones e instalaciones 
+de la siguiente imagen, pudiendo crear un proyecto real de una empresa que requiere una mejora en sus instalaciones para cumplir con la Directiva NIS2 y el Esquema Nacional de Seguridad.
 
+
+![alt text](Imagenes/Instalacion_mejorada.png)
+
+---
 
 
