@@ -129,3 +129,12 @@ Como se puede apreciar en la imagen anterior, vemos equipos profesionales dedica
 
 - El AP será de uso exclusivo a clientes en sala de espera y mediante portal cautivo.
 
+---
+
+En cuanto al servidor Splunk, será revisado una vez al día por el servicio de soporte técnico para la detección de anomalías o posibles intentos de acceso indebido, revisión de copias de seguridad y estado de los servidores y elementos de red.
+
+Más abajo se muestra una revisión completa de una incidencia detectada.
+
+---
+
+
