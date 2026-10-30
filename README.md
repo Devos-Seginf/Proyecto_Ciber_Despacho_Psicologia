@@ -107,4 +107,13 @@ de la siguiente imagen, pudiendo crear un proyecto real de una empresa que requi
 
 ---
 
+Como se puede apreciar en la imagen anterior, vemos equipos profesionales dedicados cada uno a una función o varias según el tipo de equipo.
 
+- Virtualización de equipos necesarios mediante Proxmox
+- Redundancia de conexiones
+- Filtrado DNS seguras y cifradas end to end.
+- Dos servidores dedicados a copias de seguridad totales una vez por semana más una diaria incremental, con cifrado de disco completo desde el arranque, XDR y bloqueo ante ataques de fuerza bruta.
+- Ambos servidores, independientes entre sí, gestiona un Active Directory que manda las gpo's a cada equipo previniendo accesos indebidos.
+- La configuración de los puertos necesarios para sus conexiones con el resto de equipos serán configuradas individualmente y mediante certificados electrónicos que se renovarán una vez al mes.
+- Todo elemento de red envía en tiempo real todos los logs importantes que son recogidos, ordenados, filtrados mediante reglas iniciales (más las creadas según las necesidades del cliente) a un servidor Splunk.
+- Todo elemento de red será configurado de manera que los puertos no usados actualmente no sean operativos, además de detectar la conexión de equipos nuevos mediante filtrado puerto a puerto.
