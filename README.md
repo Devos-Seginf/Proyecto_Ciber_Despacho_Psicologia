@@ -85,7 +85,7 @@ Los siguientes enlaces pueden ayudarte:
 
 - Esta breve introducción trata del Certificado de Grado C  Nivel 3 Familia Informática y Telecomunicaciones **[IFCT0109|Seguridad informática]**
 
-En el siguiente documento veremos un proyecto real de una empresa que requiere una mejora en sus instalaciones para cumplir con la Directiva NIS2 y el Esquema Nacional de Seguridad.
+En el siguiente documento veremos el resultado de la finalización del Certificado, pudiendo crear un proyecto real de una empresa que requiere una mejora en sus instalaciones para cumplir con la Directiva NIS2 y el Esquema Nacional de Seguridad.
 
 
 ---
@@ -95,6 +95,13 @@ El primer bloque muestra la visita inicial a el cliente, tras la que se realiza 
 
 ![Plano de instalación inicial del cliente](Imagenes/Instalacion_inicial.png)
 
+En este caso se aprecia una instalación típica de una vivienda en la que un equipo genérico y probablemente desactualizado hace la labor de router, servidor DNS, Servidor DHCP y cortaguegos.
+Tampoco se observan copias de seguridad totales o incrementales, disponiendo únicamente de sticks USB para realizar las copias cuando se acuerden, no teniendo por tanto copias actualizadas ni cifradas de sus archivos, que siendo de índole médico podrían representar en caso de brecha una sanción que llevaría al cierre de la clínica.
+
+En el caso de usar un SaaS como google drive, se estaría poniendo en juego la seguridad de la información en reposo ya que no habría en un principio más que un usuario/contraseña para acceder.
+Aún en los casos de usar 2FA, son muy conocidas y a la vez usadas por actores maliciosos, aplicaciones para sobrepasar esos servicios.
+
+---
 
 
 
